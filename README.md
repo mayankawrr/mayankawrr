@@ -14,10 +14,8 @@
 
 ### 💫 About Me
 
-- 🎓 I'm a Student, Fitness Coach, Content Producer
+- 🎓 I'm a Fitness Coach, Content Producer, currently learning ML Engineering
 - 🔭 I’m currently working on AI driven solutions for fitness/habit building
-- 🌱 I’m currently learning pandas, numpy, scikit, matplotlib, tensorflow
-- 🥅 2025 Goals: get to 10% bf, complete classical ML, setup my own app for coaching biz
 
 <br>
 
@@ -41,12 +39,5 @@
 </div>
 
 <br>
-
-
-
-<p align="center">
-  <b>Thanks for your visit to my profile! 😊</b>
-</p>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
