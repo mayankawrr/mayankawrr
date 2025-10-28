@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
+
+<div id="header" align="center">
+
 <h1>Hey, Mayank here!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
@@ -5,7 +9,7 @@
 <br>
 
 <div style="float: right;">
-  <img src="https://media0.giphy.com/media/HMzHH3J2RbHzPbRJH5/giphy.gif" alt="Profile Image" width="200" />
+
 </div>
 
 ### 💫 About Me
