@@ -1,7 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
-<div id="header" align="center">
-
 <h1>Hey, Mayank here!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
 </div>
