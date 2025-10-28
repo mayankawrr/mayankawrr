@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-<h1>Hey, Mayank here!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hey, Mayank here!</h1>
 
 </div>
 
